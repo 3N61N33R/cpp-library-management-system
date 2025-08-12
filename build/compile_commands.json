@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/build",
+  "command": "/usr/bin/c++  -I/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/include -g -std=gnu++17 -o CMakeFiles/library.dir/src/Book.cpp.o -c /Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/src/Book.cpp",
+  "file": "/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/src/Book.cpp",
+  "output": "CMakeFiles/library.dir/src/Book.cpp.o"
+},
+{
+  "directory": "/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/build",
+  "command": "/usr/bin/c++  -I/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/include -g -std=gnu++17 -o CMakeFiles/library.dir/src/Library.cpp.o -c /Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/src/Library.cpp",
+  "file": "/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/src/Library.cpp",
+  "output": "CMakeFiles/library.dir/src/Library.cpp.o"
+},
+{
+  "directory": "/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/build",
+  "command": "/usr/bin/c++  -I/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/include -g -std=gnu++17 -o CMakeFiles/library.dir/src/Member.cpp.o -c /Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/src/Member.cpp",
+  "file": "/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/src/Member.cpp",
+  "output": "CMakeFiles/library.dir/src/Member.cpp.o"
+},
+{
+  "directory": "/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/build",
+  "command": "/usr/bin/c++  -I/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/include -g -std=gnu++17 -o CMakeFiles/library.dir/src/main.cpp.o -c /Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/src/main.cpp",
+  "file": "/Users/3n61n33r/Documents/PROJECTS/GUDS/CodingCamp/library/src/main.cpp",
+  "output": "CMakeFiles/library.dir/src/main.cpp.o"
+}
+]
