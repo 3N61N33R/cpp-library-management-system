@@ -7,9 +7,13 @@ This project is a simplified, command-line Library Management System built in C+
 ## OOP Concepts Demonstrated
 
 * **📦 Encapsulation**: The `Book` class safely bundles its data (title, author, etc.) with the methods that operate on that data, using private attributes and public getters/setters.
+
 * **👪 Inheritance**: A base `Member` class defines common attributes, while `RegularMember` and `PremiumMember` subclasses inherit from it and provide specialized behavior (different borrowing limits).
+
 * **🎨 Abstraction**: An abstract `AbstractLibrary` class defines a common interface (`addBook`, `borrowBook`, etc.), ensuring any concrete library implementation follows a consistent contract.
+
 * **🔗 Composition, Aggregation, and Association**:
+
     * The `Library` class is **composed** of a collection of `Book` objects.
     * It **aggregates** a collection of `Member` objects.
     * A temporary **association** is formed when a `Member` borrows a `Book`.
@@ -54,7 +58,7 @@ You will need the following tools installed on your system:
 
 1.  **Clone the repository**
     ```sh
-    git clone git@github.com:3N61N33R/cpp-library-management-sytem.git
+    git clone git@github.com:3N61N33R/cpp-library-management-system.git
     cd cpp-library-management-system
     ```
 
